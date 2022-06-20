@@ -1,2 +1,2 @@
-# UniqFromArr
+# UniqFromARR
 Created with CodeSandbox
